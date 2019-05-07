@@ -12,19 +12,30 @@ This is a public repository with tutorials in different aspects of programming i
 
 ### Topics:
 
-_Continuously growing... Last updated 10-28-2018_
+_Last updated 05-07-2019_
 
-- [Installation and environment setup :wrench:](https://github.com/zhiyzuo/python-tutorial/blob/master/0-Installation-Environment-Setup.ipynb)
-- [Variables, data structures, and control logics :twisted_rightwards_arrows:](https://github.com/zhiyzuo/python-tutorial/blob/master/1-Variables-Data_Structures-Control_Logic.ipynb)
-- [Functions, external libraries, and file I/O :page_facing_up:](https://github.com/zhiyzuo/python-tutorial/blob/master/2-Functions-External_Libraries-File_IO.ipynb)
-- [Network Analysis with Networkx :globe_with_meridians:](https://github.com/zhiyzuo/python-tutorial/blob/master/3-Network-Analysis-with-NetworkX.ipynb)
-- [Visualization using Matplotlib :art:](https://github.com/zhiyzuo/python-tutorial/blob/master/4-Visualization-with-Matplotlib.ipynb)
-- [Getting Web data :one:: Using APIs :signal_strength:](https://github.com/zhiyzuo/python-tutorial/blob/master/5-Getting-Data-Using-APIs.ipynb)
-- [Getting Web data :two:: Manual parsing :muscle:](https://github.com/zhiyzuo/python-tutorial/blob/master/6-Getting-Data-from-Web.ipynb)
-- [Text anlaytics :scroll:](https://github.com/zhiyzuo/python-tutorial/blob/master/7-Text-Analytics-in-Python.ipynb)
-- [Data mining :chart_with_upwards_trend:](https://github.com/zhiyzuo/python-tutorial/blob/master/8-Data-Mining-With-Scikit-Learn.ipynb)
+#### R Workshops
+- [Introduction and Data Management Using R] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Introduction%20and%20Data%20Management%20Using%20R)
+- [Basic Data Visualization Using R] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Basic%20Data%20Visualization%20Using%20R)
+- [Basic Network Analysis Using R] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Basic%20Network%20Analysis%20Using%20R)
+- [Advanced Network Analysis Using R] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Advanced%20Network%20Analysis%20Using%20R)
+- [Model Interpretation and Visualization Using R I] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Model%20Interpretation%20and%20Visualization%20Using%20R%20I)
+- [Model Interpretation and Visualization Using R II] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Model%20Interpretation%20and%20Visualization%20Using%20R%20II)
+- [Model Interpretation and Visualization Using R III] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Model%20Interpretation%20and%20Visualization%20Using%20R%20III)
 
-Additionally, we also have a [tutorial on Bash :computer:](https://github.com/zhiyzuo/python-tutorial/blob/master/Bash-Tutorial.ipynb)!
+#### Stata Workshops
+- [Introduction to Stata] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Introduction%20to%20Stata)
+- [Data Management Using Stata] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Data%20Management%20Using%20Stata)
+- [Data Visualization Using Stata] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Data%20Visualization%20Using%20Stata)
+- [Model Interpretation and Visualization Using Stata I] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Model%20Interpretation%20and%20Visualization%20Using%20Stata%20I)
+- [Model Interpretation and Visualization Using Stata II] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Model%20Interpretation%20and%20Visualization%20Using%20Stata%20II)
+- [Model Interpretation and Visualization Using Stata III] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Model%20Interpretation%20and%20Visualization%20Using%20Stata%20III)
+
+#### R & Stata Workshops
+- [Multilevel Models Using R and Stata] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Multilevel%20Modeling)
+
+
+Additionally, we also have a [tutorial on creating dynamic documents via R MarkDown](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Dynamic%20Documents)!
 
 ---
 
@@ -36,8 +47,3 @@ There are many different ways of making use of publica Github repositories. Ples
 - [Try Git](https://try.github.io/levels/1/challenges/1)
 - [Github Guides](https://guides.github.com/activities/hello-world/)
 - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
-
-#### Running on Azure:exclamation:
-Thanks to Microsoft's great and generous move, we are now hosting all these notebooks on [Azure](https://notebooks.azure.com/zhiyzuo/libraries/python-workshop) platform. Now you can play with the notebooks on their server :cloud: without having things installed on your own laptop.
-
-To do this, you can either click on the last badge above (the one says _launch azurenb_) or click on the link above. Then you can click on any of the notebooks to start!

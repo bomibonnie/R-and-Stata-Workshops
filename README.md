@@ -15,24 +15,24 @@ This is a public repository with tutorials in different aspects of programming i
 _Last updated 05-07-2019_
 
 #### R Workshops
-- [Introduction and Data Management Using R] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Introduction%20and%20Data%20Management%20Using%20R)
-- [Basic Data Visualization Using R] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Basic%20Data%20Visualization%20Using%20R)
-- [Basic Network Analysis Using R] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Basic%20Network%20Analysis%20Using%20R)
-- [Advanced Network Analysis Using R] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Advanced%20Network%20Analysis%20Using%20R)
-- [Model Interpretation and Visualization Using R I] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Model%20Interpretation%20and%20Visualization%20Using%20R%20I)
-- [Model Interpretation and Visualization Using R II] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Model%20Interpretation%20and%20Visualization%20Using%20R%20II)
-- [Model Interpretation and Visualization Using R III] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Model%20Interpretation%20and%20Visualization%20Using%20R%20III)
+- [Introduction and Data Management Using R](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Introduction%20and%20Data%20Management%20Using%20R)
+- [Basic Data Visualization Using R](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Basic%20Data%20Visualization%20Using%20R)
+- [Basic Network Analysis Using R](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Basic%20Network%20Analysis%20Using%20R)
+- [Advanced Network Analysis Using R](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Advanced%20Network%20Analysis%20Using%20R)
+- [Model Interpretation and Visualization Using R I](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Model%20Interpretation%20and%20Visualization%20Using%20R%20I)
+- [Model Interpretation and Visualization Using R II](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Model%20Interpretation%20and%20Visualization%20Using%20R%20II)
+- [Model Interpretation and Visualization Using R III](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/R/Model%20Interpretation%20and%20Visualization%20Using%20R%20III)
 
 #### Stata Workshops
-- [Introduction to Stata] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Introduction%20to%20Stata)
-- [Data Management Using Stata] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Data%20Management%20Using%20Stata)
-- [Data Visualization Using Stata] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Data%20Visualization%20Using%20Stata)
-- [Model Interpretation and Visualization Using Stata I] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Model%20Interpretation%20and%20Visualization%20Using%20Stata%20I)
-- [Model Interpretation and Visualization Using Stata II] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Model%20Interpretation%20and%20Visualization%20Using%20Stata%20II)
-- [Model Interpretation and Visualization Using Stata III] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Model%20Interpretation%20and%20Visualization%20Using%20Stata%20III)
+- [Introduction to Stata](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Introduction%20to%20Stata)
+- [Data Management Using Stata](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Data%20Management%20Using%20Stata)
+- [Data Visualization Using Stata](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Data%20Visualization%20Using%20Stata)
+- [Model Interpretation and Visualization Using Stata I](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Model%20Interpretation%20and%20Visualization%20Using%20Stata%20I)
+- [Model Interpretation and Visualization Using Stata II](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Model%20Interpretation%20and%20Visualization%20Using%20Stata%20II)
+- [Model Interpretation and Visualization Using Stata III](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Stata/Model%20Interpretation%20and%20Visualization%20Using%20Stata%20III)
 
 #### R & Stata Workshops
-- [Multilevel Models Using R and Stata] (https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Multilevel%20Modeling)
+- [Multilevel Models Using R and Stata](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Multilevel%20Modeling)
 
 
 Additionally, we also have a [tutorial on creating dynamic documents via R MarkDown](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops/tree/master/Dynamic%20Documents)!

@@ -5,7 +5,7 @@ R and Stata Workshop Series
 ___This workshop series is sponsored by [Iowa Social Science Research Center](http://ppc.uiowa.edu/isrc) at the University of Iowa. You can also check out other interesting workshops [here](http://ppc.uiowa.edu/isrc/workshops).___
 
 This is a public repository with tutorials in different aspects of programming in R and Stata. Please star us if you think it is useful: 
-[![GitHub stars](https://img.shields.io/github/stars/zhiyzuo/python-tutorial.svg?style=social&logo=github&label=Stars)](https://github.com/zhiyzuo/python-tutorial)
+[![GitHub stars](https://img.shields.io/github/stars/iowa-social-science-research-center/R-and-Stata-Workshops.svg?style=social&logo=github&label=Stars)](https://github.com/iowa-social-science-research-center/R-and-Stata-Workshops)
 
 
 ---

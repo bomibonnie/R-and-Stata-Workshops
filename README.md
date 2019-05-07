@@ -1,10 +1,10 @@
 R and Stata Workshop Series
 ==
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/zhiyzuo/python-tutorial)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 
 ___This workshop series is sponsored by [Iowa Social Science Research Center](http://ppc.uiowa.edu/isrc) at the University of Iowa. You can also check out other interesting workshops [here](http://ppc.uiowa.edu/isrc/workshops).___
 
-This is a public repository for [Jupyter notebooks](http://jupyter.org/) with introductory tutorials in different aspects of Python programming. Please star us if you think it is useful: 
+This is a public repository with tutorials in different aspects of programming in R and Stata. Please star us if you think it is useful: 
 [![GitHub stars](https://img.shields.io/github/stars/zhiyzuo/python-tutorial.svg?style=social&logo=github&label=Stars)](https://github.com/zhiyzuo/python-tutorial)
 
 
